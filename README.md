@@ -60,7 +60,7 @@ This project focuses on analyzing e-commerce sales data to uncover key business 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](images/dashboard.png)
 ---
 
 ## 📁 Project Structure
@@ -70,6 +70,7 @@ Ecommerce-Sales-Analysis/
  ├── data/
  ├── notebook/
  ├── dashboard/
+ ├──images/
  ├── README.md
 ```
 
